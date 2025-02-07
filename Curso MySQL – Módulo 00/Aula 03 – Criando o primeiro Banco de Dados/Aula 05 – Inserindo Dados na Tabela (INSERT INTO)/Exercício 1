@@ -1,0 +1,4 @@
+insert into pessoas
+(nome, nascimento, sexo, peso, altura, nacionalidade)
+values
+('Fabio', '1977-08-09', 'M', '80.5', '1.92', 'Brasil');

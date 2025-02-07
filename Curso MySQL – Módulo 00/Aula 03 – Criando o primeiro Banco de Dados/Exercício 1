@@ -1,0 +1,9 @@
+Table: pessoas
+
+Columns:
+Nome	Varchar (30)
+Idade	tinyint
+Sexo	Char (1)
+Peso	float
+Altura	float
+Nacionalidade	Varchar (20)
